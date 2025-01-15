@@ -15,3 +15,5 @@ and provided high-quality medical knowledge.
 **finetuninggemma2-customizeddataset.ipynb** - This is the final submission, implementing customized datasets.
 **syntheticdatageneration.ipynb** - This is the notebook for creating synthetic dataset.
 
+### Reflection
+This competition offers an in-depth undersanding of the fine-tuning process, from data curation using Gemini API to fine-tuning Gemma through Keras. 
